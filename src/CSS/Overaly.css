@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+.Overaly{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 617px;
+    background: url(../../public/images/hero_apple_vision_pro.jpg)  center center/cover; 
+    overflow: auto;
+    margin: 0 auto; 
+    margin-bottom: 10px;
+} 
+.ove-intro{
+    margin-top: 23%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.ove-intro img{ 
+    margin:10% 30px 0 0;
+} 
+h3{  
+    color:#1d1d1f;
+    font-size: 27px;
+    margin: 10px 20px 0 0;
+    line-height: 1.16667;
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+} 
+p{
+    text-align: center; 
+    font-size: 21px;
+    line-height: 1.19048;
+    font-weight: 400;
+    letter-spacing: .011em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #6e6e73;
+    margin-top: 15px;
+} 
+.ove-link{
+    margin-top: 15px;
+    display: flex;
+    width: 48%;
+    justify-content: space-between; 
+    
+}
+.ove-link a{
+    color: #06c;
+    letter-spacing: inherit; 
+    text-decoration: none; 
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
