@@ -13,8 +13,8 @@ const Overaly = () => {
       <h3>Welcome to the era of spatial computing.</h3> 
       <p>Avaible starting 2.2</p> 
       <div className="ove-link">
-        <a href="">Learn more </a>
-        <a href="">Pre-order</a>
+        <a href="test">Learn more </a>
+        <a href="test">Pre-order</a>
       </div>
       </div>
     </div>

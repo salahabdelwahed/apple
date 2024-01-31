@@ -8,37 +8,37 @@ const Navbar = () => {
             <i class="fa-brands fa-apple"></i>
           </li>
           <li>
-            <a href="">Store</a>
+            <a href="test">Store</a>
           </li>
           <li>
-            <a href="">Mac</a>
+            <a href="test">Mac</a>
           </li>
           <li>
-            <a href="">iPad</a>
+            <a href="test">iPad</a>
           </li>
           <li>
-            <a href="">iPhone</a>
+            <a href="test">iPhone</a>
           </li>
           <li>
-            <a href="">Watch</a>
+            <a href="test">Watch</a>
           </li>
           <li>
-            <a href="">Vision</a>
+            <a href="test">Vision</a>
           </li>
           <li>
-            <a href="">AirPods</a>
+            <a href="test">AirPods</a>
           </li>
           <li>
-            <a href="">TV&Home</a>
+            <a href="test">TV&Home</a>
           </li>
           <li>
-            <a href="">Entertainment</a>
+            <a href="test">Entertainment</a>
           </li>
           <li>
-            <a href="">Accessoires</a>
+            <a href="test">Accessoires</a>
           </li>
           <li>
-            <a href="">Support</a>
+            <a href="test">Support</a>
           </li>
           <li>
             <i class="fa-solid fa-magnifying-glass"></i>
